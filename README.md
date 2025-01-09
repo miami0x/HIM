@@ -1,7 +1,7 @@
 # Autonomous Trading DeFi Agent 
 
 <div align="center">
-  <img src=".docs/IMG_4789-1.png" alt="Him Banner" width="100%" />
+  <img src="docs/docs/guides/IMG_4789-1.webp" alt="Him Banner" width="100%" />
 </div>
 
 <div align="center">
